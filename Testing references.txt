@@ -1,0 +1,7 @@
+Guru99.com. 2020. How To Create A Test Plan (With Example). [online] Available at: <https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html> [Accessed 2 May 2020].
+
+Tutorialspoint.com. 2020. Unit Testing - Tutorialspoint. [online] Available at: <https://www.tutorialspoint.com/software_testing_dictionary/unit_testing.htm> [Accessed 4 May 2020].
+
+2020. [online] Available at: <https://www.guru99.com/system-integration-testing.html> [Accessed 4 May 2020].
+
+GeeksforGeeks. 2020. Difference Between Performance And Stress Testing - Geeksforgeeks. [online] Available at: <https://www.geeksforgeeks.org/difference-between-performance-and-stress-testing/> [Accessed 4 May 2020].
